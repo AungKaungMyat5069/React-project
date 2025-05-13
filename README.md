@@ -5,3 +5,4 @@ in React (JDC/react-again)
 4. emp-react
 5. todo-ui
 6. context-api
+7. state-demo-app
